@@ -13,7 +13,6 @@ ffmpeg_bin="/data/data/com.termux/files/usr/bin/./ffmpeg"
 convert_bin="/data/data/com.termux/files/usr/bin/./convert"
 #===================VARIABLES===================#
 
-
 #================Create folders=================#
 mkdir $saved_folder          >/dev/null 2>&1
 mkdir $saved_folder/Sent/    >/dev/null 2>&1
